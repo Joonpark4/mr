@@ -22,8 +22,8 @@ function App() {
           { id: 6, left: 'Chave', right: 'Key' },
           { id: 7, left: 'Gato', right: 'Cat' },
           { id: 8, left: 'Cachorro', right: 'Dog' },
-          { id: 9, left: 'Como', right: 'Como' },
-          { id: 10, left: 'Bebo', right: 'Bebo' },
+          { id: 9, left: 'Como', right: 'Eat' },
+          { id: 10, left: 'Bebo', right: 'Drink' },
           { id: 11, left: 'Casa', right: 'House' },
           { id: 12, left: 'Namorada', right: 'Girlfriend' },
         ];
