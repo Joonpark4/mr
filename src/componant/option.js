@@ -44,7 +44,7 @@ function Option(props) {
           Word
         </div>
         <div className="btn_option list_option" onClick={offsetClick}>
-          Offset
+          Opposite
         </div>
       </div>
     );
