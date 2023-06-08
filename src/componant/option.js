@@ -36,7 +36,7 @@ function Option(props) {
         <div className="btn_option list_option" onClick={hideClick}>
           Hide
           <br />
-          Answer
+          Words
         </div>
         <div className="btn_option list_option" onClick={addListClick}>
           Add
